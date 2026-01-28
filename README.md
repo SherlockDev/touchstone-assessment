@@ -2,16 +2,6 @@
 
 A full-stack web application for calculating Black-Scholes option prices with dividend yields. Built with React + TypeScript frontend, Python FastAPI backend, and SQLite database.
 
-## Features
-
-- **Interactive Calculator**: User-friendly form to input option parameters
-- **Real-time Calculations**: Calculate call and put option prices using the Black-Scholes model
-- **Dividend Yield Support**: Incorporates dividend yields into pricing calculations
-- **Calculation History**: View and manage all previous calculations
-- **Persistent Storage**: SQLite database stores all calculations with timestamps
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
-- **RESTful API**: Well-documented API endpoints for integration
-
 ## Tech Stack
 
 ### Frontend
@@ -25,7 +15,6 @@ A full-stack web application for calculating Black-Scholes option prices with di
 - **FastAPI** - Modern web framework
 - **SQLAlchemy** - ORM for database operations
 - **Pydantic** - Data validation
-- **Custom Math Implementation** - Normal distribution functions (Abramowitz & Stegun approximation)
 
 ### Database
 - **SQLite** - Lightweight embedded database

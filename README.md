@@ -66,7 +66,7 @@ npm --version
 ### 1. Clone the Repository
 
 ```bash
-cd "c:\Users\rossh\OneDrive\Documents\Ross Projects\Touchstone assessment"
+git clone https://github.com/SherlockDev/touchstone-assessment.git
 ```
 
 ### 2. Backend Setup
